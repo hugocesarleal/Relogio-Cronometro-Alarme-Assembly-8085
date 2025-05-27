@@ -23,7 +23,6 @@ Este repositório contém o código-fonte e arquivos relacionados ao projeto de 
 
 - `relogio_digital.asm` — Código-fonte em Assembly.
 - `relogio_digital.hex` — Arquivo compilado para uso no simulador.
-- `Relatório - Andressa e Hugo.pdf` — Documento completo com o desenvolvimento, testes e análise do projeto.
 
 ## ▶️ Como Executar
 
